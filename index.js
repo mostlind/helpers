@@ -9,5 +9,7 @@ const inspect = x => {
 
 module.exports = {
   curry,
-  pipe
+  pipe,
+  map,
+  inspect
 };
